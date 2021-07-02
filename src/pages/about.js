@@ -20,6 +20,7 @@ function AboutPage() {
             more of a maelstrom of impulses and passions, of cruelty, ecstacy,
             and madness, than is apparent to the civilized being who glides on
             the surface and fits smoothly into the world.
+            https://www.codetisans.com/
           </blockquote>
 
           <cite className="block mt-4 text-xs font-bold text-right uppercase">
