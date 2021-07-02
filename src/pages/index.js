@@ -9,7 +9,7 @@ function IndexPage() {
     <Layout>
       <SEO
         keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
-        title="Home"
+        title="Jevan Lavador"
       />
 
       <section className="text-center">
